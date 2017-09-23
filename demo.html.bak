@@ -8,7 +8,7 @@
 <body>
 
 <div ng-init="i=6">
-    <button onclick="alert(i)">点jjj我</button>
+    <button onclick="alert(i)">点我</button>
 </div>
 
 
