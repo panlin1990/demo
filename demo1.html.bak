@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<p></p>
+<script>
+    var i=6;
+    var k=7;
+    var b=i+k;
+    document.getElementsByTagName("p")[0].innerHTML=b;
+</script>
+</body>
+</html>
